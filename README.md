@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Overview
 
-![AI Smart Home Dashboard](https://raw.githubusercontent.com/your-username/ai-smart-home/main/docs/dashboard-preview.png)
+![AI Smart Home Dashboard](https://raw.githubusercontent.com/Arnav2812/ai-smart-home/main/docs/dashboard-preview.png)
 
 ---
 
