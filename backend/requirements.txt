@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+groq
+pydantic
+python-dotenv
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
